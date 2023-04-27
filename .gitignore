@@ -4,3 +4,6 @@
 geckodriver.log
 env.sh
 %allure_result%
+/drivers
+/reports
+test.txt
