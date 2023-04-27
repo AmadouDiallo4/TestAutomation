@@ -1,0 +1,6 @@
+#
+/selenium-behave-project
+/test_apium
+geckodriver.log
+env.sh
+%allure_result%
