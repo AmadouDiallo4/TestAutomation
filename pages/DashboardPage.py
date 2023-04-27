@@ -11,3 +11,7 @@ class DashboardPage(BasePage):
     def validatePageLoaded(self):
         self.verify_element_displayed(self.TXT_DASHBOARD)
         assert self.get_element_text(self.TXT_DASHBOARD) == "Dashboard"
+        
+    
+
+    
